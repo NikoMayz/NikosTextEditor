@@ -1,0 +1,22 @@
+{
+  "icons": [
+    {
+      "src": "/images/icons/icon_512x512.3ca11a97eb7d90b61fc3db0f3c5dcdb6.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons/icon_192x192.1efd8d2a5218c9516adb7d6ff7907ac1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Nikos Text Editor",
+  "short_name": "Text Editor",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "A text editor with offline capabilities",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
